@@ -1,0 +1,30 @@
+//----- patron de colores 
+$texto: black;
+$principal: #C0C0C0;
+$secundario: orange;
+
+//estilo de prueba
+.container{
+    border: 1px solid red;
+}
+
+.row{
+    border: 1px solid blue;
+}
+
+.row>*{
+    border: 3px solid green;
+}
+ 
+.bg-primary{
+    background-color: #d21327!important;
+}
+
+.servicios>*{
+    border: 1px solid red;
+}
+
+    
+    
+    
+    

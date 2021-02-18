@@ -1,0 +1,38 @@
+*.container, .row {
+  border: 1px ; }
+
+
+.row > * {
+  border: 1px ;
+  border-radius: 10px;
+}
+.letras{
+    font-size: 1em;
+}
+
+.bg-primary {
+  background-color: #d21327 ; 
+}
+
+.servicios > * {
+  border: 1px solid red; 
+}
+.fondo{
+    background: url(fondo.jpg);
+}
+.fondo2{
+    background: color:"red"
+}
+.fondoservicio{
+    background: url(fondo2.jpg);
+}
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
